@@ -5,5 +5,5 @@ def my_each (array)
     print "array[index]\n"
     index += 1
   end
-  
+  array
 end
