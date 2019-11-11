@@ -9,6 +9,5 @@ def my_each (array)
 end
 
 
-my_each(name) do |name|
-print "name\n"
-end
+my_each(name)
+  print "name\n"
