@@ -3,6 +3,7 @@ def my_each (array)
   index = 0
   while index < array.length do 
     array[index]
+    index += 1
   end
   
 end
