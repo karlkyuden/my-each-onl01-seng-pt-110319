@@ -9,7 +9,7 @@ def my_each (array)
     end
     array
   else
-    puts "No block was given"
+    print "No block was given"
   end
   
 end
