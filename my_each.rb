@@ -4,7 +4,7 @@ def my_each (array)
   newArray = []
   while index < array.length do 
     newArray << array[index]
-    put array[index]
+    print array[index]
     index += 1
   end
   newArray
